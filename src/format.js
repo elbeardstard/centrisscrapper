@@ -1,0 +1,1 @@
+// Placeholder: this would be the full format.js content previously defined.

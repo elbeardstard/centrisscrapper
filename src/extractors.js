@@ -1,0 +1,1 @@
+// Placeholder: this would be the full extractors.js content previously defined.
